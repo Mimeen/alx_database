@@ -1,4 +1,3 @@
--- This script shows all the tables in the mysql database
+-- show tables in the database
 
-USE mysql;
-SHOW TABLES;
+SHOW TABLES

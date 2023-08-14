@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- count the number of records
 /*
 -- Create database 
@@ -21,3 +22,9 @@ INSERT INTO first_table (id, name) VALUES (3, "F");
 */
 -- count first table columns with 89 ids
 SELECT COUNT(*) FROM first_table WHERE id = 89;
+=======
+-- read new lines
+
+mysql -u your_username -p -e "SELECT COUNT(*) FROM hbtn_0c_0.first_table WHERE id = 89;" hbtn_0c_0
+
+>>>>>>> 0f7f9e9cdc1546f4db447f699e5c71a57f821530

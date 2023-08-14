@@ -1,3 +1,3 @@
 -- show full description of tables in the database
 
-DESC hbtn_0c_0.first_table
+DESC hbtn_Oc_O.first_table
